@@ -11,7 +11,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author CARLOS VALLE 200322
+ * @author CARLOS VALLE 2000322
+ *         Jorge Zetino 2000145
  */
 public class Factura {
 
