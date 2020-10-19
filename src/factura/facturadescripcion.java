@@ -18,11 +18,11 @@ public class facturadescripcion {
     public facturadescripcion() {
     }
 
-    public facturadescripcion(int Cantidad, String Descripcion, double valor, int total) {
+    public facturadescripcion(int Cantidad, String Descripcion, double valor) {
         this.Cantidad = Cantidad;
         this.Descripcion = Descripcion;
         this.valor = valor;
-        this.total = total;
+        
     }
     
     
@@ -55,12 +55,6 @@ public class facturadescripcion {
         return total;
     }
 
-    public void setTotal(int total) {
-        this.total = total;
-    }
-
-   
-       
-
+  
     
 }
